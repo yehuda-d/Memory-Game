@@ -1,0 +1,38 @@
+#page{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+#s{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto;
+    width: 700px;
+    height: 500px;
+    margin: 0px auto;
+    background-color: chartreuse;
+    border: 1px solid black;
+    
+}
+.card{
+    width: 100px;
+    height: 110px;
+    font-size: 50px;
+    background-color: brown;
+    margin: auto;
+    text-align: center;
+    color: aliceblue;
+    line-height: 210%;
+}
+p{
+    font-size: 300%;
+    font-weight: bold;
+    background-color: bisque;
+    width: 30%;
+    margin-left: 35%;
+}
+
+button{
+    font-size: 30px;
+    font-weight: bold;
+}
